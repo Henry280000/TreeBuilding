@@ -1,0 +1,15 @@
+Temperatura,Humedad,Viento,Jugar
+Caliente,Alta,No,No
+Caliente,Alta,Si,No
+Templado,Alta,No,Si
+Frio,Media,No,Si
+Frio,Baja,No,Si
+Frio,Baja,Si,No
+Templado,Baja,Si,Si
+Caliente,Media,No,No
+Caliente,Baja,No,Si
+Frio,Media,Si,Si
+Templado,Media,No,Si
+Templado,Alta,Si,Si
+Caliente,Media,Si,No
+Templado,Media,Si,Si
