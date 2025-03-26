@@ -1,0 +1,13 @@
+Nombre del curso: Inteligencia Artificial con Machine Learning en Java
+Periodo: 202510
+Alumno: Enrique López Cruz
+ID:00524026
+Carrera: Ingenieria en tecnologias de la informacion y negocios digitales
+Campus: UAM (Universidad Anahuac Mayab)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+NOMBRE            | Descripcion de su proposito                                                                                                                                                                                                |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+DataSet           | Cargar y gestionar los datos desde un archivo CSV. Almacena los atributos, los datos y el índice del atributo objetivo. Proporciona métodos para acceder a la información del conjunto de datos.
+EntropyCalculator | Implementa cálculos de entropía e información, tambien contiene métodos para calcular la entropía de un conjunto de datos y divide los datos según un atributo específico.
+ID3Classifier     | Implementa el clasificador ID3. Construye un árbol de decisión usando el conjunto de datos proporcionado y permite clasificar nuevas instancias. Incluye métodos para clasificar, encontrar la clase mayoritaria y imprimir la estructura del árbol de decisión.
